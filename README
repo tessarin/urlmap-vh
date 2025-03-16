@@ -1,0 +1,8 @@
+Sample code to demonstrate a bogus URLMap usage.
+
+A & B: Class
+C & D: Package
+
+Chose the pair in main.psgi and run normally.
+
+    $ starman main.psgi
